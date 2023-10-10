@@ -35,7 +35,7 @@ En el curso de "Oracle ADS: análisis de datos en la nube", aprendí a manejar e
 
 ## Agradecimientos
 
-Un gran agradecimiento a Alejandro Gamarra, por su excelente instrucción en este curso. También quiero agradecer a Alura Latam y Oracle Next Education (ONE) por proporcionar esta valiosa oportunidad educativa a sus AlumniONE.
+Un gran agradecimiento a Álvaro Camacho, por su excelente instrucción en este curso. También quiero agradecer a Alura Latam y Oracle Next Education (ONE) por proporcionar esta valiosa oportunidad educativa a sus AlumniONE.
 
 ## Contacto
 
